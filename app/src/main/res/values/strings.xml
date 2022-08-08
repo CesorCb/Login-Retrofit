@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Retrofit Prueba1</string>
+
+    <string name="main_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="main_type_login">Login</string>
+    <string name="main_type_register">Register</string>
+    <string name="main_error_server">Error en la petición</string>
+    <string name="main_error_response">Error en la respuesta</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_img_profile">Imagen del usuario</string>
+    <string name="main_profile">Profile</string>
+</resources>
